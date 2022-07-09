@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name_of_objects,#resultobject,#resultaccuracy{
+    color: darkcyan;
+    font-size: 25px;
+}
+
+#camera,#result{
+    border: 2px dashed purple ;
+    width: 350px;
+    height: 300px;
+}
